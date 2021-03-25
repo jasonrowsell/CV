@@ -1,6 +1,8 @@
 ## Jason Rowsell
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+After being given a GameBoy as a child, I became hooked on technology. From writing 'Hello, world' in C, to programming 'Pong' in Java, computers and programming have developed into a passion. Having completed two years as a Fashion Design student, my design skills felt better suited in tech. I want to combine my creativity skills with the ability to problem solve. Software development provides me with the perfect opportunity to explore these challenges.
+
+As a current student at <a href="http://www.makersacademy.com/">Makers Academy</a>, my understanding of software development has grown from the fundamentals to.
 
 ## Projects
 
@@ -11,13 +13,13 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Marks & Specner** (September 2016 to August 2020)  
+_Customer Assistant_
 
 - Any experience relevent to software development
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**J.P. Morgan** (May 2016 to July 2016)  
+_Information Technology Operations Support_
 
 - Any experience relevent to software development
 
@@ -42,20 +44,38 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
+#### Makers Academy (March 2021 to June 2021)
+*Highly selective software development bootcamp  /  16-week program*
+- Test Driven Development, with a key emphasis on pair programming
+- Object-oriented programming
+- Experience with MVC framework patterns
+- Independent learning and problem-solving
+- Full-stack web development
+- Ruby, Rails, JavaScript, Node.js, Angular.js
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Westminster (September 2020 to June 2021)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BA Hons Fashion Design, specialising in Menswear
+
+#### University of the Art London (September 2019 to May 2020)
+
+- Foundation Diploma in Art & Design, *Distinction*
+
+#### Bournemouth School for Boys Sixth Form (September 2016 to June 2018)
+
+A-Levels:
+- Mathematics *A**
+- Biology *A*
+- Economics *B*
+- Physics *A*
+
+#### Bournemouth School for Boys (September 2011 to June 2016)
+
+GCSE's:
+*14 A*-A*
+
+
 
 #### Any other qualifications
 
