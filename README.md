@@ -1,6 +1,6 @@
 ## Jason Rowsell
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/jasonrowsell) | [Blog](https://medium.com/@jasonrowsell)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/jasonrowsell) | [Blog](https://medium.com/@jason-rowsell)
 
 I am a driven and energetic individual, seeking for a role as a Junior Software Developer, where I can develop upon my programming skills and knowledge.
 
