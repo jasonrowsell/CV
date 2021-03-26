@@ -76,7 +76,7 @@ A-Levels:
 #### Bournemouth School for Boys (September 2011 to June 2016)
 
 GCSE's:
-- *14 A*-A*
+- *14 A* - A*
 
 
 
