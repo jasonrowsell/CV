@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/jasonrowsell) | [Blog](https://medium.com/@jasonrowsell)
 
-I am a driven and energetic Full Stack Junior Developer, seeking for a role where I can develop upon my programming skills and knowledge.
+I am a driven and energetic individual, seeking for a role as a Junior Software Developer, where I can develop upon my programming skills and knowledge.
 
 After being given a GameBoy as a child, I became hooked on technology. From writing 'Hello, world' in C, to -insert most recent proj-, computers and programming have developed into a passion. Having completed two years as a Fashion Design student, my design skills felt better suited in tech. I enjoy the challenge of problem solving, and wanted to strengthen this skill whilst being engaged creatively. Software development provides me with the perfect opportunity to embrace such challenges.
 
