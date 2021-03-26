@@ -22,9 +22,9 @@ _Customer Assistant_
 _Information Technology Operations Support_
 
 Work Experience:
-- Technical problem resolution for all technology related issues within reporting environment;
-- Collaborate with other team members to solve issues and share knowledge;
-- Vendor interactions with SAP and IBM on technical issues and problems requiring vendor support.
+- Technical problem resolution for all technology related issues within reporting environment
+- Collaborate with other team members to solve issues and share knowledge
+- Vendor interactions with SAP and IBM on technical issues and problems requiring vendor support
 
 ## Skills
 
