@@ -2,7 +2,7 @@
 
 After being given a GameBoy as a child, I became hooked on technology. From writing 'Hello, world' in C, to programming 'Pong' in Java, computers and programming have developed into a passion. Having completed two years as a Fashion Design student, my design skills felt better suited in tech. I want to combine my creativity skills with the ability to problem solve. Software development provides me with the perfect opportunity to explore these challenges.
 
-As a current student at <a href="http://www.makersacademy.com/">Makers Academy</a>, my understanding of software development has grown from the fundamentals to.
+As a current student at <a href="http://www.makersacademy.com/">Makers Academy</a>, my understanding of software development has grown from the fundamental concepts to being able to..
 
 ## Projects
 
@@ -21,7 +21,10 @@ _Customer Assistant_
 **J.P. Morgan** (May 2016 to July 2016)  
 _Information Technology Operations Support_
 
-- Any experience relevent to software development
+Work Experience:
+- Technical problem resolution for all technology related issues within reporting environment;
+- Collaborate with other team members to solve issues and share knowledge;
+- Vendor interactions with SAP and IBM on technical issues and problems requiring vendor support.
 
 ## Skills
 
