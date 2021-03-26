@@ -4,7 +4,7 @@
 
 I am a driven and energetic Full Stack Junior Developer, seeking for a role where I can develop upon my programming skills and knowledge.
 
-After being given a GameBoy as a child, I became hooked on technology. From writing 'Hello, world' in C, to -insert most recent proj-, computers and programming have developed into a passion. Having completed two years as a Fashion Design student, my design skills felt better suited in tech. I enjoy the challenge of problem solving, and wanted to strengthen this skill whilst being engaged creatively. Software development provides me with the perfect opportunity to embrace these challenges.
+After being given a GameBoy as a child, I became hooked on technology. From writing 'Hello, world' in C, to -insert most recent proj-, computers and programming have developed into a passion. Having completed two years as a Fashion Design student, my design skills felt better suited in tech. I enjoy the challenge of problem solving, and wanted to strengthen this skill whilst being engaged creatively. Software development provides me with the perfect opportunity to embrace such challenges.
 
 As a current student at <a href="http://www.makersacademy.com/">Makers Academy</a>, my understanding of software development has grown from the fundamental concepts to being able to..
 
