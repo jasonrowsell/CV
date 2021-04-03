@@ -80,12 +80,6 @@ A-Levels:
 GCSE's:
 - _14 A* - A_
 
-
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
 ## Hobbies
 
 Any cool stuff that makes you a super part of a software development team
